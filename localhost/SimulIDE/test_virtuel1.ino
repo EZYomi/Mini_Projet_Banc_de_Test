@@ -46,24 +46,32 @@ void loop() {
         lcd.print("Test 1: LCD OK");
         lcd.setCursor(0, 1);
         lcd.print("Affichage OK");
+        lcd.noBlink();
         break;
         
       case 2:
         lcd.print("Test 2: Off");
         lcd.setCursor(0, 1);
-        lcd.print("");
+        lcd.print("Ecran eteint");
+        lcd.noDisplay(); // Désactive l'affichage (simule l'écran éteint)
+        delay(5000);
+        lcd.display(); // Réactive l'affichage après le délai
         break;
         
       case 3:
-        lcd.print("Test 3: Curseur");
+        lcd.print("Test 3: Pleins");
         lcd.setCursor(0, 1);
-        lcd.print("");
+        for (int i = 0; i < 16; i++) {
+          lcd.write(255); 
+        }
+        delay(10000);
         break;
         
       case 4:
         lcd.print("Test 4: Blink");
         lcd.setCursor(0, 1);
-        lcd.print("");
+        lcd.print("Curseur ");
+        lcd.blink(); // Active le clignotement du curseur
         break;
     }
     
