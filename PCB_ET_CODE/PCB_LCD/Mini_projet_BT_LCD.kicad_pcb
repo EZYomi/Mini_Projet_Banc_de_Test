@@ -3170,7 +3170,7 @@
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "08e2b0d5-3434-44ff-93af-6e85355c36db")
+			(uuid "e07d057a-7c6e-49e7-b897-73ba95086517")
 			(effects
 				(font
 					(size 1 1)
@@ -3182,7 +3182,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "bff2af76-b4cd-40f2-8d09-22a4919f75c5")
+			(uuid "b7a29fec-b43c-4a37-b885-382449bd0a3a")
 			(effects
 				(font
 					(size 1 1)
@@ -3195,7 +3195,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "38997925-a299-46d5-a167-6c492d1e78a8")
+			(uuid "a700f4d3-2af7-4090-b145-e6d15c41c358")
 			(effects
 				(font
 					(size 1 1)
@@ -3208,7 +3208,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81c09b90-37a1-4da3-ae52-2b9659321f6d")
+			(uuid "0598e30b-a1ee-4909-9921-cf0e8dc269cf")
 			(effects
 				(font
 					(size 1 1)
@@ -3257,7 +3257,7 @@
 		(pad "1" thru_hole circle
 			(at -38.1 11.5 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 23 "Net-(A1-+5V)")
@@ -3268,7 +3268,7 @@
 		(pad "2" thru_hole circle
 			(at -40.6 11.5 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 38 "Net-(LCD1-K)")
@@ -3279,7 +3279,7 @@
 		(pad "3" thru_hole circle
 			(at -38.1 9 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 37 "Net-(LCD1-VO)")
@@ -3290,7 +3290,7 @@
 		(pad "4" thru_hole circle
 			(at -40.6 9 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 24 "Net-(A1-D12)")
@@ -3301,7 +3301,7 @@
 		(pad "5" thru_hole circle
 			(at -38.1 6.12 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 23 "Net-(A1-+5V)")
@@ -3312,7 +3312,7 @@
 		(pad "6" thru_hole circle
 			(at -40.6 6.12 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 15 "Net-(A1-D11)")
@@ -3323,7 +3323,7 @@
 		(pad "7" thru_hole circle
 			(at -38.1 3.58 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "unconnected-(LCD1-DB0-Pad7)")
@@ -3334,7 +3334,7 @@
 		(pad "8" thru_hole circle
 			(at -40.6 3.58 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 3 "unconnected-(LCD1-DB1-Pad8)")
@@ -3345,7 +3345,7 @@
 		(pad "9" thru_hole circle
 			(at -38.1 1.04 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 4 "unconnected-(LCD1-DB2-Pad9)")
@@ -3356,7 +3356,7 @@
 		(pad "10" thru_hole circle
 			(at -40.6 1.04 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "unconnected-(LCD1-DB3-Pad10)")
@@ -3367,7 +3367,7 @@
 		(pad "11" thru_hole circle
 			(at -38.1 -1.5 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 10 "Net-(A1-D5)")
@@ -3378,7 +3378,7 @@
 		(pad "12" thru_hole circle
 			(at -40.6 -1.5 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 17 "Net-(A1-D4)")
@@ -3389,7 +3389,7 @@
 		(pad "13" thru_hole circle
 			(at -38.1 -4.04 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 33 "Net-(A1-D3)")
@@ -3400,7 +3400,7 @@
 		(pad "14" thru_hole circle
 			(at -40.6 -4.04 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 5 "Net-(A1-D2)")
@@ -3411,7 +3411,7 @@
 		(pad "15" thru_hole circle
 			(at -38.1 -6.58 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 23 "Net-(A1-+5V)")
@@ -3422,7 +3422,7 @@
 		(pad "16" thru_hole circle
 			(at -40.6 -6.58 270)
 			(size 1.4 1.4)
-			(drill 0.93)
+			(drill 0.95)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 38 "Net-(LCD1-K)")
