@@ -2,7 +2,7 @@
 
 ### Réalisé par mes soins
 
-Dans ce répertoire vous trouverez mes différent ficher de PCB ainsi que que de codage en langage C adapté Arduino. 
+Dans ce répertoire vous trouverez mes différents ficher de PCB ainsi que que de codage en langage C adapté Arduino. 
 
 Pour plus d'information vous pouvez me contacter.
 
